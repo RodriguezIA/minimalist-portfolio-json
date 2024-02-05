@@ -1,66 +1,65 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Edgar Alan Rodriguez Amador",
+    "label": "Full Stack Developer JR",
+    "image": "/edgar.jpeg",
+    "email": "edgaralanra@gmail.com",
+    "phone": "+52 9515865809",
     "url": "https://midu.dev",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "66058",
+      "city": "Escobedo",
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Edgar Alan Rodriguez Amador",
+        "url": "https://www.linkedin.com/in/edgar-alan-rodriguez-amador-3745b8148/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Edgar Rodriguez",
+        "url": "https://twitter.com/DomingoEdg98434"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "RodriguezIA",
+        "url": "https://github.com/RodriguezIA/"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "industrial code",
+      "position": "Desarrollador JR",
+      "url": "https://www.industrial-code.com/",
+      "startDate": "2023-01-11",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Lider de equipo desarrollo en producto de vision computacional, He trabajado en distintos proyectos que abarcan el ramo logistico y sistemas de produccion, con un stack react, typescript y microservicios, Python y metdos de machine learning",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "NukleOS",
+      "position": "Intership Python developer",
+      "startDate": "2022-04-01",
+      "endDate": "2023-01-11",
+      "summary": "Encargado de realizar el diseño, gestion y mantenimiento de un servicio backend, encargado de concentrar, analizar informacion de diversas fuentes, Realize modulos de prediccion de valores, con la informacion procesada ya nalizada, Desarrollo de dashborads interacrtivos en react.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Bluuit",
+      "position": "Intership backend developer JR",
+      "startDate": "2020-01-15",
+      "endDate": "2020-05-01",
+      "summary": "Desarrollé modulos de geolocalizacion para consumirse mediante una API para consumir la información. Realize la creacion de Roms de sockets para la transaccion de informacion en tiempo real. Recorté el numero de peticiones in necesarias en un sitema optimizando el rendimiento y el costo de la operacion en los modulos de geolocalizacion.",
       "highlights": [
         "Started the company"
       ]
@@ -77,18 +76,32 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Universidad Tecnologica de Escobedo",
+      "url": "https://www.ute.edu.mx/#1561987545614-c6792795-1211",
+      "area": "Ingenieria diseño y gestion de software",
+      "studyType": "Bachelor",
+      "startDate": "2021-09-01",
+      "endDate": "2023-05-01  ",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnologica de los valles centrales de Oaxaca",
+      "url": "https://utvco.edu.mx/",
+      "area": "Técnico Superior Universitario Tecnologías de la Información",
+      "studyType": "TSU",
+      "startDate": "2018-09-01",
+      "endDate": "2020-05-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -218,58 +231,6 @@
         "En desarrollo"
       ],
       "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
