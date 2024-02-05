@@ -230,7 +230,8 @@
         "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://mars.codes",
+      "github": "https://github.com/ejemplo/proyecto1"
     }
   ]
 }
