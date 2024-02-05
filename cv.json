@@ -2,11 +2,11 @@
   "basics": {
     "name": "Edgar Alan Rodriguez Amador",
     "label": "Full Stack Developer JR",
-    "image": "/edgar.jpeg",
+    "image": "/minimalist-portfolio-json/edgar.jpeg",
     "email": "edgaralanra@gmail.com",
     "phone": "+52 9515865809",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "url": "https://rodriguezia.github.io/minimalist-portfolio-json/",
+    "summary": "Desarrollador FullStack. Actualmente mi rol es lider de equipo, gestiono el proyecto dentro del equipo de desarrollo. Vivo el area metropolitana de Monterrey, Mexico. He trabajado en diferentes start-ups desarrollando soluciones solidas y escalables.",
     "location": {
       "address": "",
       "postalCode": "66058",
