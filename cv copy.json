@@ -222,16 +222,16 @@
     "reference": "Reference…"
   }],
   "projects": [
-    {
-      "name": "Registegic",
-      "isActive": true,
-      "description": "Solucion para la logistica industrial",
-      "highlights": [
-        "Logistica inteligente",
-        "LTS"
-      ],
-      "url": "https://www.industrial-code.com/",
-      "github": "https://github.com/"
-    }
+    // {
+    //   "name": "mars.codes",
+    //   "isActive": true,
+    //   "description": "Historia interactiva con retos de programación para viajar a Marte",
+    //   "highlights": [
+    //     "Elige tu propia aventura",
+    //     "En desarrollo"
+    //   ],
+    //   "url": "https://mars.codes",
+    //   "github": "https://github.com/ejemplo/proyecto1"
+    // }
   ]
 }
